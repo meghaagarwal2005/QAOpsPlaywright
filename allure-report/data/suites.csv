@@ -1,0 +1,4 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","12989","@Web Place order for ADIDAS ORIGINAL","","2026-04-16","passed","2026-04-16","","ClientAppPO.spec.js","",""
+"","16792","@Web Place order for ZARA COAT 3","","2026-04-16","passed","2026-04-16","","ClientAppPO.spec.js","",""
+"","7057","@Web UI controls","","2026-04-16","passed","2026-04-16","","UIBasicsTests.spec.js","",""
