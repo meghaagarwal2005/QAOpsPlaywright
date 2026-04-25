@@ -1,7 +1,6 @@
 import { test, expect } from '@playwright/test';
 const ExcelJs = require('exceljs');
 const workbook = new ExcelJs.Workbook();
-workbook.xlsx.readFile('C:\\Users\\megha\\Download.xlsx')
 
 async function writeExcelFile(searchText,replaceText,change,filePath){
    
