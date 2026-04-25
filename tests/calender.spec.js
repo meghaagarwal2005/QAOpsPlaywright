@@ -3,7 +3,8 @@ test("Calender", async ({ page }) => {
     const month="6";
     const day="7";
     const year="2027";
-    const ex=[month,day,year];
+    const ex=[month,day,year];//
+    //Calender Validation 
     await page.goto("https://rahulshettyacademy.com/seleniumPractise/#/offers");
     await page.locator(".react-date-picker__inputGroup").click();
     await page.locator(".react-calendar__navigation__label").click();
